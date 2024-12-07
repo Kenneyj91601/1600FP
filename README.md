@@ -8,7 +8,8 @@
 
 ### When building a brand new Personal Computer, these are the main components of the machine and with that comes a lot of choices on what will best suite your needs for the PC:
 
-## COMPONENTS
+## <center>COMPONENTS </center>
+
 #### CPU
 #### Motherboard
 #### RAM
