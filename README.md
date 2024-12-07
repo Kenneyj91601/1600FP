@@ -8,7 +8,7 @@
 
 ### When building a brand new Personal Computer, these are the main components of the machine and with that comes a lot of choices on what will best suite your needs for the PC:
 
-## <center>COMPONENTS </center>
+## COMPONENTS
 
 #### CPU
 #### Motherboard
@@ -19,6 +19,7 @@
 #### I/O Devices
 
 ### CPU
+This will be a very important part of building your PC, as the CPU will control how much your computr will be able to handle at once and possibly how fast your computer will run with more computationally complex programs. The CPU can be expensive depending on which you choose, but if you are needing a PC that can handle many big programs while also running smoothly, a more expensive CPU might be the way to go.
 
 ## Motherboard
 
